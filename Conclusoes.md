@@ -20,7 +20,7 @@ Este documento resume os principais insights obtidos a partir das análises real
 ## 🔹 Sazonalidade
 
 - A **receita mensal** apresenta picos entre **novembro e dezembro**, sugerindo forte influência de eventos como Natal e Black Friday.
-- A maioria das compras ocorre em **dias úteis**, com destaque para **segundas e terças-feiras**.
+- A maioria das compras ocorre em **dias úteis**, com destaque para **terças e quintas-feiras**.
 
 ---
 
